@@ -1,0 +1,102 @@
+﻿id,name,category,alpha_box,selective_mask,browser_selection
+t0,Ribbed crop tank,top,434 398 931 1186,,covered by original look
+t1,Half-zip sweatshirt,top,395 369 979 1058,atlas 0,covered by original look
+t2,Cable-knit cardigan,top,435 390 936 1188,atlas 1,covered by original look
+t3,Zip training jacket,top,438 370 928 1184,atlas 2,covered by original look
+t4,Satin pyjama shirt,top,416 379 950 1190,atlas 3,covered by original look
+t5,Oversized blazer,top,430 368 944 1192,,covered by original look
+t7,Leather bomber,top,371 358 992 1187,,covered by original look
+b0,Denim maxi skirt,bottom,417 756 941 1700,assets/masks/b0.png,covered by original look
+b1,Wide sweatpants,bottom,441 789 924 1988,assets/masks/b1.png,covered by original look
+b2,Pleated wide trousers,bottom,462 768 905 1959,,covered by original look
+b3,High-rise leggings,bottom,462 786 904 1841,,covered by original look
+b4,Satin pyjama trousers,bottom,462 789 905 1943,,covered by original look
+b5,Straight suit trousers,bottom,462 744 905 1964,,covered by original look
+b7,Parachute cargo pants,bottom,441 789 921 1894,,covered by original look
+d6,Satin slip dress,dress,429 398 950 1707,atlas 4,covered by original look
+s0,Knee-high boots,shoes,538 1679 813 2026,,covered by original look
+s1,Chunky sneakers,shoes,546 1912 804 2022,atlas 5,covered by original look
+s2,Penny loafers,shoes,558 1922 790 2029,,covered by original look
+s3,Running sneakers,shoes,560 1814 797 2024,atlas 6,covered by original look
+s4,Fluffy slippers,shoes,541 1904 803 2014,atlas 7,covered by original look
+s5,Pointed heels,shoes,575 1946 779 2026,,covered by original look
+s6,Strappy sandals,shoes,577 1878 773 2031,,covered by original look
+s7,Platform sneakers,shoes,542 1859 815 2024,,covered by original look
+t8,Ivory tweed jacket,top,441 381 928 1029,,covered by original look
+t9,Satin tailored blouse,top,436 378 931 1031,,covered by original look
+b8,Straight indigo jeans,bottom,492 816 878 1944,,covered by original look
+b9,A-line maxi skirt,bottom,411 809 963 1792,,covered by original look
+d8,Ruched mock-neck dress,dress,436 359 930 1779,,covered by original look
+s8,Patent bow flats,shoes,579 1817 783 2034,,covered by original look
+s9,Gold-bit loafers,shoes,580 1714 778 2033,,covered by original look
+s10,Pointed pumps,shoes,584 1717 775 2036,,covered by original look
+nt01,Marinière shoulder-button knit,top,434 391 931 1034,,PASS
+nt02,Cropped rivet trucker,top,426 382 939 1024,,PASS
+nt03,Oxford shirttail shirt,top,412 382 953 1054,,PASS
+nt04,Darted waistcoat,top,524 403 841 876,,PASS
+nt05,Gathered silk wrap blouse,top,420 396 946 1035,,PASS
+nt06,Funnel-neck cashmere knit,top,434 360 929 1032,assets/masks/nt06.png,PASS
+nt07,Foldover Bardot knit,top,436 461 928 1029,assets/masks/nt07.png,PASS
+nt08,Sculpted one-shoulder jersey,top,521 401 844 887,assets/masks/nt08.png,PASS
+nt09,Utility linen shirt,top,408 385 956 973,,PASS
+nt10,Braid-trim bouclé cardigan,top,433 389 932 1029,,PASS
+nt11,Suede western jacket,top,431 376 933 1030,,PASS
+nt12,Peak-lapel double-breasted blazer,top,430 375 935 1032,,PASS
+nt13,Square-neck paneled bustier,top,523 404 844 846,,PASS
+nt14,Embroidered poet blouse,top,408 404 957 1017,,PASS
+nt15,Ribbed polo knit,top,443 380 923 857,,PASS
+nt16,Belted storm-flap jacket,top,426 386 939 1033,,PASS
+nt17,Cowl-neck jersey top,top,431 400 934 881,assets/masks/nt17.png,PASS
+nt18,Velvet-trim check jacket,top,432 399 933 1031,,PASS
+nb01,Cuffed selvedge jeans,bottom,477 792 890 1937,,PASS
+nb02,1970s pocket flares,bottom,434 792 933 1971,,PASS
+nb03,Double-pleat linen trousers,bottom,417 792 951 1951,assets/masks/nb03.png,PASS
+nb04,Chalk-stripe tailored trousers,bottom,460 792 907 1956,,PASS
+nb05,Bias-cut satin skirt,bottom,433 792 934 1647,assets/masks/nb05.png,PASS
+nb06,Accordion maxi skirt,bottom,375 792 992 1851,assets/masks/nb06.png,PASS
+nb07,Pocketed A-line skirt,bottom,415 792 952 1429,,PASS
+nb08,Carpenter straight jeans,bottom,467 792 900 1856,,PASS
+nb09,Seamed leather trousers,bottom,476 792 891 1921,,PASS
+nb10,Side-tab cigarette trousers,bottom,478 792 889 1855,,PASS
+nb11,Drawcord cargo trousers,bottom,465 792 902 1891,,PASS
+nb12,Button-through suede skirt,bottom,332 792 1035 1666,,PASS
+nb13,Double-pleat Bermuda shorts,bottom,419 792 948 1349,,PASS
+nb14,Silk palazzo trousers,bottom,344 792 1023 1971,assets/masks/nb14.png,PASS
+nb15,Buckle wrap skirt,bottom,451 792 916 1651,,PASS
+nd01,Boatneck crepe sheath,dress,476 402 889 1401,assets/masks/nd01.png,PASS
+nd02,Waterfall satin midi,dress,418 368 947 1676,assets/masks/nd02.png,PASS
+nd03,One-shoulder column gown,dress,452 395 915 1983,assets/masks/nd03.png,PASS
+nd04,Rosebud tea dress,dress,351 400 1014 1631,,PASS
+nd05,Ribbed cashmere column,dress,443 358 930 1696,assets/masks/nd05.png,PASS
+nd06,Striped poplin shirt dress,dress,404 382 961 1621,,PASS
+nd07,Bias-cut cowl slip,dress,435 403 930 1721,assets/masks/nd07.png,PASS
+nd08,Double-breasted blazer dress,dress,444 395 929 1286,,PASS
+nd09,Square-neck linen maxi,dress,396 401 969 1911,assets/masks/nd09.png,PASS
+nd10,Velvet column gown,dress,444 390 929 1966,assets/masks/nd10.png,PASS
+nd11,Tied wrap midi,dress,448 388 916 1661,,PASS
+nd12,Sunray halter dress,dress,377 373 987 1706,assets/masks/nd12.png,PASS
+ac01,Pearl pendant,accessory,623 376 749 477,,PASS
+ac02,Oval sunglasses,accessory,597 216 773 273,,PASS
+ac03,Pearl barrette,accessory,705 107 755 137,,PASS
+ac04,Mini top-handle bag,accessory,388 1115 541 1272,,PASS
+ac05,Printed silk neckerchief,accessory,623 362 748 588,,PASS
+ac06,Slim bracelet watch,accessory,441 1014 498 1035,,PASS
+ns01,Ribbon ballet flats,shoes,576 1874 781 2029,,PASS
+ns02,Buckle Mary Janes,shoes,576 1877 781 2029,,PASS
+ns03,Suede ankle boots,shoes,574 1775 785 2029,,PASS
+ns04,Elastic-gusset Chelsea boots,shoes,575 1809 781 2032,,PASS
+ns05,Folded satin kitten heels,shoes,575 1874 781 2029,,PASS
+ns06,Cap-toe slingbacks,shoes,576 1873 781 2029,,PASS
+ns07,Equestrian leather boots,shoes,547 1486 815 2032,,PASS
+ns08,Court leather sneakers,shoes,572 1882 784 2029,,PASS
+ns09,Retro mesh runners,shoes,572 1880 784 2029,,PASS
+ns10,Knotted evening sandals,shoes,575 1829 781 2029,,PASS
+ns11,V-vamp leather flats,shoes,574 1869 782 2029,,PASS
+ns12,Woven leather mules,shoes,575 1890 781 2029,,PASS
+ns13,Lug-sole penny loafers,shoes,572 1882 784 2032,,PASS
+ns14,Jute espadrilles,shoes,575 1882 782 2029,,PASS
+ns15,Fan-pleat mirror heels,shoes,575 1875 781 2029,,PASS
+ac07,Gold hoops,accessory,605 278 761 319,,PASS
+ac08,Silver chain,accessory,618 375 748 467,,PASS
+ac09,Baguette shoulder bag,accessory,406 412 520 952,,PASS
+ac10,Brass-buckle waist belt,accessory,555 747 810 781,,PASS

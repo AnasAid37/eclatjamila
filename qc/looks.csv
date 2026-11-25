@@ -1,0 +1,56 @@
+﻿index,name,aesthetic,top_or_dress,bottom,shoes,accessories,browser_composite,waist_fit
+0,Denim Maxi,Original wardrobe,t0,b0,s0,,PASS,loose
+1,Cloud Set,Original wardrobe,t1,b1,s1,,PASS,loose
+2,Library Knit,Original wardrobe,t2,b2,s2,,PASS,loose
+3,Lilac Run,Original wardrobe,t3,b3,s3,,PASS,loose
+4,Satin Night,Original wardrobe,t4,b4,s4,,PASS,loose
+5,Night Suit,Original wardrobe,t5,b5,s5,,PASS,loose
+6,Sage Slip,Original wardrobe,d6,,s6,,PASS,
+7,Bomber Cargo,Original wardrobe,t7,b7,s7,,PASS,loose
+8,Tweed Denim,Original wardrobe,t8,b8,s8,,PASS,loose
+9,Silk & Cocoa,Original wardrobe,t9,b9,s9,,PASS,loose
+10,Bordeaux Drape,Original wardrobe,d8,,s10,,PASS,
+11,Saint-Germain Saturday,Parisian chic,nt01,nb01,ns01,ac04,PASS,loose
+12,Seongsu Blue Hour,Seoul streetwear,nt02,nb11,ns09,ac02,PASS,loose
+13,Copenhagen Studio,Scandinavian minimalism,nt03,nb08,ns08,ac06,PASS,loose
+14,Pitti in June,Italian elegance,nt04,nb03,ns06,ac02,PASS,loose
+15,Champagne Matinée,Quiet luxury,nt05,nb05,ns05,ac01,PASS,loose
+16,North Library,Dark academia,nt06,nb12,ns07,ac06,PASS,loose
+17,Rouge Rendezvous,Date night,nt07,nb15,ns11,ac04,PASS,loose
+18,Gallery After Dark,Editorial fashion,nt08,nb14,ns15,ac03,PASS,loose
+19,The Palma Ferry,Summer resort,nt09,nb13,ns14,ac02,PASS,loose
+20,Buttercup Brunch,Soft feminine,nt10,nb08,ns02,ac03,PASS,loose
+21,Desert Highway,Modern vintage,nt11,nb02,ns03,ac04,PASS,loose
+22,Boardroom in Navy,Corporate chic,nt12,nb04,ns06,ac06,PASS,loose
+23,Midnight Vinyl,Y2K,nt13,nb09,ns13,ac02,PASS,loose
+24,Blue Garden,Bohemian chic,nt14,nb07,ns14,ac04,PASS,loose
+25,Courtside Club,Sporty chic,nt15,nb13,ns08,ac06,PASS,tucked
+26,Terminal Four,Airport style,nt16,nb01,ns04,ac04,PASS,loose
+27,Plum Nocturne,Evening glamour,nt17,nb10,ns05,ac01,PASS,loose
+28,Left Bank Atelier,Creative professional,nt18,nb14,ns02,ac04,PASS,loose
+29,Han River Sunday,Korean chic,nt10,nb06,ns08,ac03,PASS,loose
+30,Oxbridge Seminar,Light academia,nt03,nb07,ns13,ac06,PASS,tucked
+31,Cashmere & Pine,Modern modest fashion,nt06,nb06,ns03,ac05,PASS,loose
+32,The Espresso Edit,Old money,nt04,nb12,ns07,ac06,PASS,loose
+33,White Courtyard,Clean girl aesthetic,nt05,nb08,ns14,ac01,PASS,loose
+34,Rain on Regent Street,Autumn layering,nt16,nb04,ns04,ac04,PASS,loose
+35,Cinnamon Station,Winter luxury,nt11,nb10,ns03,ac05,PASS,loose
+36,Indigo Frequency,Contemporary streetwear,nt02,nb09,ns09,ac02,PASS,loose
+37,City in Ink,Minimalist monochrome,nt13,nb04,ns13,ac06,PASS,loose
+38,Harbour Lunch,Riviera tailoring,nt01,nb03,ns12,ac02,PASS,loose
+39,The Editor’s Desk,Business casual,nt09,nb10,ns02,ac04,PASS,tucked
+40,Rive Gauche Cinema,Parisian evening,nt18,nb05,ns11,ac03,PASS,loose
+41,Seoul Design Fair,Architectural utility,nt08,nb11,ns04,ac06,PASS,loose
+42,Highline Morning,Casual weekend,nt15,nb02,ns09,ac02,PASS,loose
+43,Night at the Cinémathèque,Little black dress,nd01,,ns02,ac01,PASS,
+44,Garnet Reception,Wedding guest,nd02,,ns10,ac03,PASS,
+45,Emerald Premiere,Evening glamour,nd03,,ns15,ac03,PASS,
+46,The Rose Garden,Romantic elegance,nd04,,ns05,ac01,PASS,
+47,Museum in November,Modern minimalism,nd05,,ns07,ac04,PASS,
+48,Sunday at the Museum,Business casual,nd06,,ns08,ac06,PASS,
+49,Candlelit Terrace,Italian evening,nd07,,ns10,ac03,PASS,
+50,Architect’s Dinner,Corporate evening,nd08,,ns06,ac06,PASS,
+51,White Portico,Summer resort,nd09,,ns12,ac02 ac10,PASS,
+52,Velvet at the Opera,Winter evening,nd10,,ns15,ac03,PASS,
+53,Sienna Courtyard,Mediterranean chic,nd11,,ns03,ac04,PASS,
+54,Rose Conservatory,Occasion dressing,nd12,,ns05,ac01,PASS,

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>ÉCLAT — Styling Studio</title>
+<link href="assets/fonts/fonts.css" rel="stylesheet">
+<link rel="stylesheet" href="style.css"></head><body>
+<div id="scene"><div id="grade"><div id="bg"></div><div id="tint"></div></div><div id="vignette"></div></div>
+<div id="stage">
+ <div id="logo"><b>ÉCLAT</b><span>YOUR STYLING STUDIO</span></div>
+ <div id="tabs" class="glass"><i id="tabInd" class="pill-on"></i><button>DNA</button><button>BODY</button><button class="on">STYLE</button><button>PERSONALITY</button><button>STORY</button></div>
+ <div id="icons"><button class="ib glass" id="bCart" aria-label="Cart" title="Cart"><svg viewBox="0 0 24 24"><path d="M3 4h3l2 11h10l2-8H7"/><circle cx="9" cy="19" r="1.3"/><circle cx="17" cy="19" r="1.3"/></svg><u>0</u></button>
+ <button class="ib glass" id="bHeart" aria-label="Filter favorites" title="Filter favorites"><svg viewBox="0 0 24 24"><path d="M12 20s-8-5-8-11a4.5 4.5 0 018-2.5A4.5 4.5 0 0120 9c0 6-8 11-8 11z"/></svg><u>0</u></button>
+ <button class="ib glass" id="bBag" aria-label="Saved looks" title="Saved looks"><svg viewBox="0 0 24 24"><path d="M5 8h14l-1 12H6zM9 8a3 3 0 016 0"/></svg><u>0</u></button>
+ <button class="ib glass" id="bDl" title="Download look"><svg viewBox="0 0 24 24"><path d="M12 4v11M7 11l5 5 5-5M5 20h14"/></svg></button>
+ <button class="ib glass" id="bMore" aria-label="More options" title="More options"><svg viewBox="0 0 24 24"><circle cx="5" cy="12" r="1.3"/><circle cx="12" cy="12" r="1.3"/><circle cx="19" cy="12" r="1.3"/></svg></button></div>
+ <div id="more" class="glass"><button>Share look</button><button>Download look</button><button>Duplicate</button><button>Settings</button></div>
+ <div id="profile" class="glass"><div id="avatar"></div><div id="pinfo"><div class="nrow"><span id="pname">Han Seo-yeon</span><button class="rb" id="pen" aria-label="Edit profile name" title="Edit profile name"><svg viewBox="0 0 24 24"><path d="M4 20l1-4L16 5l3 3L8 19z"/></svg></button><button class="rb glass2" id="shuf" aria-label="Shuffle profile" title="Shuffle profile"><svg viewBox="0 0 24 24"><path d="M4 7h4l8 10h4M4 17h4l2-2.5M14 9.5L16 7h4M18 5l2 2-2 2M18 15l2 2-2 2"/></svg></button></div>
+ <div class="meta"><span id="page">23</span><s></s><span id="pcity">Seoul, KR</span><s></s><span id="pw" title="Overcast · soft daylight"><svg viewBox="0 0 24 24"><path d="M7 18a4 4 0 010-8 5 5 0 019.5 1A3.5 3.5 0 0116 18z"/></svg><em id="ptemp">14°C</em></span></div></div></div>
+ <div id="side" class="glass"><i id="sideInd" class="pill-on"></i></div>
+ <button id="rand" class="glass"><svg id="randIc" viewBox="0 0 24 24"><path d="M20 12a8 8 0 01-14 5M4 12a8 8 0 0114-5M18 3v4h-4M6 21v-4h4"/></svg>Randomize ÉCLAT</button>
+ <div id="modelWrap" class="full"><div id="shadow"></div><div id="modelInner"><div id="breath"><div id="figs"></div><div id="scan"></div><div id="hotspots"></div></div></div></div>
+ <div id="panel" class="glass">
+  <div class="view on" id="v-outfits"><h3>Wardrobe<small id="cnt">7 tops</small></h3><div id="mix" class="opts"><button class="opt" data-m="look">Looks</button><button class="opt on" data-m="top">Tops</button><button class="opt" data-m="bottom">Bottoms</button><button class="opt" data-m="dress">Dresses</button><button class="opt" data-m="shoes">Shoes</button></div><div id="brief"><label>Occasion<select id="occasion"><option>Any</option><option>Work</option><option>Weekend</option><option>Travel</option><option>Evening</option><option>Occasion</option></select></label><label>Season<select id="season"><option>Auto</option><option>Spring</option><option>Summer</option><option>Autumn</option><option>Winter</option></select></label></div><div id="grid"></div><div id="sw"><div id="swr"></div><button id="lock" class="rb glass2"><svg viewBox="0 0 24 24"><rect x="5" y="11" width="14" height="9" rx="2"/><path d="M8 11V8a4 4 0 018 0v3"/></svg></button></div><div id="stylist-tools"><div class="stylist-actions"><button type="button" id="restyle-piece" hidden></button><button type="button" id="restyle-shoes">Change shoes only</button></div><div id="waist-fit" role="group" aria-label="Waist fit" hidden><span>Waist</span><button type="button" value="loose">Loose</button><button type="button" value="tucked">Tucked</button></div></div><div id="acc"></div><div id="total"></div></div>
+  <div class="view" id="v-tune"></div>
+  <div class="view" id="v-dna"><h3>DNA<small>identity seed</small></h3><svg id="helix" viewBox="0 0 300 120"></svg><div class="rows" id="dnarows"></div><button class="outl" id="reseed">Re-seed identity</button></div>
+  <div class="view" id="v-body"><h3>Body<small>live fit</small></h3><div id="bodyc"></div></div>
+  <div class="view" id="v-pers"><h3>Personality<small>pick up to 3</small></h3><div id="traits"></div><svg id="radar" viewBox="0 0 250 210"></svg><div id="persl"></div></div>
+  <div class="view" id="v-story"><h3>Story<small>auto-written from your choices</small></h3><div id="story"></div><button class="outl" id="rewrite">Rewrite story</button></div>
+ </div>
+ <div id="lib" class="glass"><h3>Library<small id="libn">0 saved</small></h3><div id="librow"><p id="libempty">Save a look to start your library.</p></div></div>
+ <div id="ctrl" class="glass"><button id="undo">Undo</button><button id="redo">Redo</button><button id="pose">Pose · <span id="posel">Full</span></button><button id="reset">Reset</button></div>
+ <div id="real" class="glass"><div class="rt"><span>Realism</span><b id="realv">75%</b></div><input type="range" id="realr" min="0" max="100" value="75"><div class="re"><span>Stylized</span><span>Hyper Realistic</span></div></div>
+ <div id="filt" class="glass"><div class="fd"><span>Filter</span><button id="fbtn"><em id="fname">Daylight</em><svg viewBox="0 0 24 24"><path d="M6 9l6 6 6-6"/></svg></button><div id="flist" class="glass"></div></div><div id="thumbs"></div><button class="rb glass2" id="fnext"><svg viewBox="0 0 24 24"><path d="M9 6l6 6-6 6"/></svg></button></div>
+ <div id="save" class="glass"><button id="saveb">SAVE TO LIBRARY</button></div>
+ <div id="toast" role="status" aria-live="polite" class="glass"><svg viewBox="0 0 24 24"><path d="M5 12l5 5 9-10"/></svg><span></span></div>
+</div>
+<script>if(location.protocol==='file:')document.write('<script src="assets/offline-masks.js"><\/script>');</script>
+<script src="data.js"></script><script src="script.js"></script></body></html>
